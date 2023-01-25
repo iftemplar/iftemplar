@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iftemplar
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working with Angular apps
 - 💞️ I’m looking to collaborate on social projects
 - 📫 https://fb.me/iftemplar
 
