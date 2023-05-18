@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iftemplar
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently working with Angular apps
-- 💞️ I’m looking to collaborate on social projects
-- 📫 https://fb.me/iftemplar
+- 💞️ I’m happy to collaborate on social projects
+- 📫 https://iftemplar.com
 
 <!---
 iftemplar/iftemplar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
