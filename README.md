@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Mykola
 - 👀 I’m interested in front-end development, I work with Javascript, Typescript, Angular, React
-- 🌱 I’m currently looking for a job
 - 💞️ I’m happy to collaborate on social projects
 - 📫 https://iftemplar.com
 
