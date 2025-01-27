@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Mykola
-- 👀 I’m interested in front-end development, I work with Javascript and React
+- 👀 I’m interested in front-end development, I work with JS, React, Angular
 - 💞️ I create websites for therapists: https://iftemplar.com/cases/therapy.html
 - 📫 My whole portfolio: https://iftemplar.com
 
