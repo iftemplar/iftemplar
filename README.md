@@ -1,6 +1,6 @@
-# Hi, I'm Mykola! 🚀
-I'm frontend web developer.
-👩‍💻 I'm currently working on React + Next.js based app.
+# The name is Mykola
+I'm a Front End Developer and UI/UX expert. 
+I'm experienced in the whole development cycle: prototyping, creating designs, coding  and publishing it on the web/mobile stores.
 
 ## 🛠 Skills
-React, Next.js, Angular, Javascript, Typescript, HTML5, CSS3
+Tech stack: React, Next, Javascript, Typescript, HTML5, CSS3, TanStack, Node.js
